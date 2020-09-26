@@ -1,0 +1,241 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+to_do_list/static_file/admin/css/autocomplete.css
+to_do_list/static_file/admin/css/base.css
+to_do_list/static_file/admin/css/changelists.css
+to_do_list/static_file/admin/css/dashboard.css
+to_do_list/static_file/admin/css/fonts.css
+to_do_list/static_file/admin/css/forms.css
+to_do_list/static_file/admin/css/login.css
+to_do_list/static_file/admin/css/nav_sidebar.css
+to_do_list/static_file/admin/css/responsive_rtl.css
+to_do_list/static_file/admin/css/responsive.css
+to_do_list/static_file/admin/css/rtl.css
+to_do_list/static_file/admin/css/widgets.css
+to_do_list/static_file/admin/css/vendor/select2/LICENSE-SELECT2.md
+to_do_list/static_file/admin/css/vendor/select2/select2.css
+to_do_list/static_file/admin/css/vendor/select2/select2.min.css
+to_do_list/static_file/admin/fonts/LICENSE.txt
+to_do_list/static_file/admin/fonts/README.txt
+to_do_list/static_file/admin/fonts/Roboto-Bold-webfont.woff
+to_do_list/static_file/admin/fonts/Roboto-Light-webfont.woff
+to_do_list/static_file/admin/fonts/Roboto-Regular-webfont.woff
+to_do_list/static_file/admin/img/calendar-icons.svg
+to_do_list/static_file/admin/img/icon-addlink.svg
+to_do_list/static_file/admin/img/icon-alert.svg
+to_do_list/static_file/admin/img/icon-calendar.svg
+to_do_list/static_file/admin/img/icon-changelink.svg
+to_do_list/static_file/admin/img/icon-clock.svg
+to_do_list/static_file/admin/img/icon-deletelink.svg
+to_do_list/static_file/admin/img/icon-no.svg
+to_do_list/static_file/admin/img/icon-unknown-alt.svg
+to_do_list/static_file/admin/img/icon-unknown.svg
+to_do_list/static_file/admin/img/icon-viewlink.svg
+to_do_list/static_file/admin/img/icon-yes.svg
+to_do_list/static_file/admin/img/inline-delete.svg
+to_do_list/static_file/admin/img/LICENSE
+to_do_list/static_file/admin/img/README.txt
+to_do_list/static_file/admin/img/search.svg
+to_do_list/static_file/admin/img/selector-icons.svg
+to_do_list/static_file/admin/img/sorting-icons.svg
+to_do_list/static_file/admin/img/tooltag-add.svg
+to_do_list/static_file/admin/img/tooltag-arrowright.svg
+to_do_list/static_file/admin/img/gis/move_vertex_off.svg
+to_do_list/static_file/admin/img/gis/move_vertex_on.svg
+to_do_list/static_file/admin/js/actions.js
+to_do_list/static_file/admin/js/actions.min.js
+to_do_list/static_file/admin/js/autocomplete.js
+to_do_list/static_file/admin/js/calendar.js
+to_do_list/static_file/admin/js/cancel.js
+to_do_list/static_file/admin/js/change_form.js
+to_do_list/static_file/admin/js/collapse.js
+to_do_list/static_file/admin/js/collapse.min.js
+to_do_list/static_file/admin/js/core.js
+to_do_list/static_file/admin/js/inlines.js
+to_do_list/static_file/admin/js/inlines.min.js
+to_do_list/static_file/admin/js/jquery.init.js
+to_do_list/static_file/admin/js/nav_sidebar.js
+to_do_list/static_file/admin/js/popup_response.js
+to_do_list/static_file/admin/js/prepopulate_init.js
+to_do_list/static_file/admin/js/prepopulate.js
+to_do_list/static_file/admin/js/prepopulate.min.js
+to_do_list/static_file/admin/js/SelectBox.js
+to_do_list/static_file/admin/js/SelectFilter2.js
+to_do_list/static_file/admin/js/urlify.js
+to_do_list/static_file/admin/js/admin/DateTimeShortcuts.js
+to_do_list/static_file/admin/js/admin/RelatedObjectLookups.js
+to_do_list/static_file/admin/js/vendor/jquery/jquery.js
+to_do_list/static_file/admin/js/vendor/jquery/jquery.min.js
+to_do_list/static_file/admin/js/vendor/jquery/LICENSE.txt
+to_do_list/static_file/admin/js/vendor/select2/LICENSE.md
+to_do_list/static_file/admin/js/vendor/select2/select2.full.js
+to_do_list/static_file/admin/js/vendor/select2/select2.full.min.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/af.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ar.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/az.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/bg.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/bn.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/bs.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ca.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/cs.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/da.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/de.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/dsb.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/el.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/en.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/es.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/et.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/eu.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/fa.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/fi.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/fr.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/gl.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/he.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/hi.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/hr.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/hsb.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/hu.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/hy.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/id.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/is.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/it.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ja.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ka.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/km.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ko.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/lt.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/lv.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/mk.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ms.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/nb.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ne.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/nl.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/pl.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ps.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/pt-BR.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/pt.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ro.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/ru.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/sk.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/sl.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/sq.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/sr-Cyrl.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/sr.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/sv.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/th.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/tk.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/tr.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/uk.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/vi.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/zh-CN.js
+to_do_list/static_file/admin/js/vendor/select2/i18n/zh-TW.js
+to_do_list/static_file/admin/js/vendor/xregexp/LICENSE.txt
+to_do_list/static_file/admin/js/vendor/xregexp/xregexp.js
+to_do_list/static_file/admin/js/vendor/xregexp/xregexp.min.js
+to_do_list/static_file/todolist/css/base.css
+to_do_list/static_file/todolist/css/edit.css
+to_do_list/static_file/todolist/css/home.css
+to_do_list/static_file/todolist/icons/icon_list.png
+to_do_list/static_file/todolist/images/logo_list.png
